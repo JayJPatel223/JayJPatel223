@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay.
 - 👀 I’m interested in money.
-- 🌱 I’m currently learning using GitHub.
+- 🌱 I’m currently learning how to use GitHub.
 - 💞️ I’m looking to collaborate on anything.
 - 😄 Pronouns: he/him
 
