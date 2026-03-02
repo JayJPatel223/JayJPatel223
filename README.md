@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay.
 - 👀 I’m interested in money.
-- 💞️ I’m looking to collaborate on anything.
+
 
 <!---
 JayJPatel223/JayJPatel223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
